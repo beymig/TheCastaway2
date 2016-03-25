@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCastaway2.CSharp.Plugins", "TheCastaway2.CSharp.Plugins.csproj", "{9A4CC356-8DF6-96DB-73CF-A80BFF24CB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCastaway2.CSharp", "TheCastaway2.CSharp.csproj", "{3487593F-75AF-4880-7CE2-E8D8BCD27592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCastaway2.CSharp.Editor", "TheCastaway2.CSharp.Editor.csproj", "{41E30E75-4485-93A1-5832-5DE5CB54A7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4CC356-8DF6-96DB-73CF-A80BFF24CB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4CC356-8DF6-96DB-73CF-A80BFF24CB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4CC356-8DF6-96DB-73CF-A80BFF24CB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4CC356-8DF6-96DB-73CF-A80BFF24CB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3487593F-75AF-4880-7CE2-E8D8BCD27592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3487593F-75AF-4880-7CE2-E8D8BCD27592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3487593F-75AF-4880-7CE2-E8D8BCD27592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3487593F-75AF-4880-7CE2-E8D8BCD27592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E30E75-4485-93A1-5832-5DE5CB54A7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E30E75-4485-93A1-5832-5DE5CB54A7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E30E75-4485-93A1-5832-5DE5CB54A7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E30E75-4485-93A1-5832-5DE5CB54A7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
