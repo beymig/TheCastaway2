@@ -16,9 +16,9 @@ public class DeathScript : MonoBehaviour {
 
 
     
-    void OntrigerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
-        Debug.Log(other);
+        Debug.Log(other.gameObject.tag);
         Destroy(other.gameObject);
     }
     
