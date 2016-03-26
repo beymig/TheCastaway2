@@ -10,8 +10,16 @@ public class DeathScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
 	
 	}
 
+
+    
+    void OntrigerEnter(Collider other)
+    {
+        Debug.Log(other);
+        Destroy(other.gameObject);
+    }
     
 }
